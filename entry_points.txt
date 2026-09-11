@@ -1,0 +1,2 @@
+[console_scripts]
+ascii-player = ascii_player.cli:main
